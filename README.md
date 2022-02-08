@@ -1,5 +1,5 @@
 # online-judge-solutions
-Solution to Hackerrank and URI Online Judge Problems in C, C++, Java, Python and SQL.
+Hackerrank and URI Online Judge Problems Solution in C, C++, Java, Python and SQL.
 
 ## HackerRank
 
