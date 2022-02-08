@@ -50,8 +50,6 @@ SL No. | Problem Title
 
 ## URI Online Judge
 
-URI Online Judge Problems Solution -
-
 Problem No. | Problem Title | Solution
 --- | --- | ---
 1001  |  [Extremely Basic](https://github.com/aratheunseen/online-judge-solutions/blob/main/URI%20Online%20Judge/1001%20-%20Extremely%20Basic/README.md) | [Go to Solution](https://github.com/aratheunseen/online-judge-solutions/blob/main/URI%20Online%20Judge/1001%20-%20Extremely%20Basic/1001%20-%20Extremely%20Basic.cpp)
