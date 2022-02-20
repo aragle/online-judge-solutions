@@ -49,7 +49,7 @@ SL No. | Problem Title
 
 
 
-## URI Online Judge
+## beecrowd / URI Online Judge
 
 Problem No. | Problem Title | Solution
 --- | --- | ---
