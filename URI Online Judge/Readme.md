@@ -1,5 +1,5 @@
-## URI Online Judge
-URI Online Judge Problems Solution -
+## beecrowd / URI Online Judge
+beecrowd or URI Online Judge Problems Solution -
 
 Problem No. | Problem Title | Solution
 --- | --- | ---
